@@ -1,0 +1,33 @@
+{
+  "name": "Ilyas564",
+  "identifier": "ru.ilyas645.troll-apps",
+  "sourceURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/Repo.json",
+  "apps": [
+    {
+      "name": "",
+      "bundleIdentifier": "",
+      "developerName": "",
+      "version": "",
+      "versionDate": "2023-12-23T15:20:00+08:00",
+      "downloadURL": "",
+      "localizedDescription": "",
+      "iconURL": "",
+      "tintColor": "018084",
+      "size": 0,
+      "type": 1
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "tigisoftware",
+      "version": "4.0",
+      "versionDate": "2023-12-23T15:20:00+08:00",
+      "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Filza.Deco_PhucDo.ipa",
+      "localizedDescription": "File manager for iOS",
+      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187836027264573490/319844922a34e1632ecac74d27ce764c.png?ex=65985581&is=6585e081&hm=8f22a0eb3d482310f9c1a703c4937c1b334c64b27621d9c414a7d89af6d5eff6&",
+      "tintColor": "018084",
+      "size": 17230,
+      "type": 1
+    }
+  ]
+}

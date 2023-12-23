@@ -129,7 +129,7 @@
       ],
       "versions": [
         {
-          "version": "",
+          "version": "1.1",
           "date": "2023-12-22",
           "localizedDescription": "Decrypt appstore apps for TrollStore",
           "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollDecrypt.ipa",

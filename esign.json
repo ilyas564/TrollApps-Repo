@@ -8,8 +8,6 @@
   "sourceLinkTitle": "Developer",
   "sourceLinkUrl": "https://t.me/Ilyas645",
   "sourceUpdateTime": "2023-12-23T15:33:53+00:00",
-  "identifier": "ru.ilyas645.troll-apps",
-  "sourceURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/esign.json",
   "apps": [
     {
       "name": "",
@@ -414,5 +412,7 @@
       "size": 17230,
       "type": 1
     }
-  ]
+  ],
+  "identifier": "ru.ilyas645.troll-apps",
+  "sourceURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/esign.json"
 }

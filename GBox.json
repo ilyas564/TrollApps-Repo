@@ -10,7 +10,7 @@
   "appCategories": [
     "\"Скачать\" -> \"Установить\" -> \"Установить с Troll\""
   ],
-  "apps": [
+  "appRepositories": [
     {
       "name": "",
       "bundleIdentifier": "",

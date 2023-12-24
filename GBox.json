@@ -13,15 +13,15 @@
   ],
   "appRepositories": [
     {
-      "name": "AirTroller",
+      "appName": "AirTroller",
       "bundleIdentifier": "net.sourceloc.AirTroller",
       "developerName": "sourceloc",
       "version": "1.1.1",
-      "localizedDescription": "AirDrop spammer",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744667586640/93949253296ca9bc2b74f5a3663588fc.png?ex=65985f7d&is=6585ea7d&hm=273d28a0677cd556c5dc26757c5c33b924d83d4e264c686039b2be7147b5bea9&",
-      "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AirTroller.ipa",
+      "appDescription": "AirDrop spammer",
+      "appImage": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744667586640/93949253296ca9bc2b74f5a3663588fc.png?ex=65985f7d&is=6585ea7d&hm=273d28a0677cd556c5dc26757c5c33b924d83d4e264c686039b2be7147b5bea9&",
+      "appPackage": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AirTroller.ipa",
       "size": 1240,
-      "versionDate": "2023-12-23T15:20:00+08:00",
+      "appUpdateTime": "2023-12-23T15:20:00+08:00",
       "tintColor": "018084",
       "type": 1
     },

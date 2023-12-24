@@ -1,9 +1,14 @@
 {
-  "name": "Ilyas564",
-  "sourceImage": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/IMG_9073.png",
-  "identifier": "ru.ilyas645.troll-apps",
+  "version": "1.1.2",
+  "name": "Ilyas564 Source",
+  "sourceName": "Ilyas564 Source",
+  "sourceAuthor": "Ilyas564",
+  "sourceImage": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/IMG_9073.PNG?raw=true",
+  "sourceDescription": "This is an ipa for TrollStore collected by me",
   "sourceLinkTitle": "Developer",
   "sourceLinkUrl": "https://t.me/Ilyas645",
+  "sourceUpdateTime": "2023-12-23T15:33:53+00:00",
+  "identifier": "ru.ilyas645.troll-apps",
   "sourceURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/esign.json",
   "apps": [
     {
@@ -409,6 +414,5 @@
       "size": 17230,
       "type": 1
     }
-  ],
-  "sourceDescription": "This is an ipa for TrollStore collected by me"
+  ]
 }

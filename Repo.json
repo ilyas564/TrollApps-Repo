@@ -210,7 +210,7 @@
       "bundleIdentifier": "com.leemin.SecondHand",
       "developerName": "leemin",
       "subtitle": "Add seconds to status bar clock on TrollStore devices",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846631794688050/0ee35f11ebdc213baac254784054f727.png?ex=65985f62&is=6585ea62&hm=32fe558407407e5d939f6fbdccd43682719b393636a52fb58567942d1e1d51be&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/SecondHand.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -254,7 +254,7 @@
       "bundleIdentifier": "com.netskao.ringtonesmanager",
       "developerName": "netskao",
       "subtitle": "Ringtone manager",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846632105050283/5068b4e9823481b58195e50cad5f0fb4.png?ex=65985f62&is=6585ea62&hm=ee2235696aeeca0c43b6ff376b586dfafb761b92b4e64edf32edcc4a0b83560f&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/RingTonesManager.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -320,7 +320,7 @@
       "bundleIdentifier": "com.lavochka.root",
       "developerName": "pengubow",
       "subtitle": "Inject .dylib",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846629806583928/52f7c1a0afbf01081d60bc66263fa768.png?ex=65985f61&is=6585ea61&hm=1873dfc4d730ab5da7ae21520dd6a5c4b7be3e2a5fc1597608b5f457287d3207&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Lavochka.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -496,7 +496,7 @@
       "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
       "developerName": "sourceloc",
       "subtitle": "Convert .deb apps to .ipa files, on iOS, locally",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744873128026/AppIcon60x602x.png?ex=65985f7d&is=6585ea7d&hm=60ecc98dd0ca511f43a5e65525eb545714a5818dd67f4406e973de88ca68a353&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/deb-to-ipa.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -536,11 +536,11 @@
       ]
     },
     {
-      "name": "CAPerfHudSwift",
-      "bundleIdentifier": "ca.bomberfish.CAPerfHudSwift",
-      "developerName": "bomberfish",
+      "name": "CAPerfHud",
+      "bundleIdentifier": "com.kdt.CAPerfHUD",
+      "developerName": "kdt",
       "subtitle": "Enable system-wide performance HUD for iOS",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846631534624799/34d31229992f2651f84ee402ed6f536e.png?ex=65985f62&is=6585ea62&hm=01df7bea340f1a297dc5dc98c734028cbbb0f84f26527dfb5183e027f82004d5&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/CAPerfHUD.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""

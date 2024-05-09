@@ -34,7 +34,7 @@
       "bundleIdentifier": "Lilliana.Violyn",
       "developerName": "Lilliana",
       "subtitle": "App to download CyDown tweaks on iOS",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744483045436/cb1104c7a6163eb634dba58692d0b933.png?ex=65985f7d&is=6585ea7d&hm=d80c1f20353e37f550bf7cc92ad2f1cef623e8d8f7c102204575ba48e0262cd8&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Violyn.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -56,7 +56,7 @@
       "bundleIdentifier": "net.sourceloc.TrollTools",
       "developerName": "sourceloc",
       "subtitle": "TrollTools is a iOS 15 theming engine for icons, badges, and passcode keys",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846746211090552/b47643eb16fb95aed4b911e3898b3729.png?ex=65985f7d&is=6585ea7d&hm=7fc095d2aa5a2627354d331744ed0188fe2405522367845fcb30af018cc51b1b&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollTolls.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -78,7 +78,7 @@
       "bundleIdentifier": "ch.xxtou.hudapp",
       "developerName": "lessica",
       "subtitle": "Shows upload & download speed below the status bar.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846820743872643/icon1.png?ex=65985f8f&is=6585ea8f&hm=a30aff553a178c197e950f6bc6ae935060fc4b65e67d72cdeea6c14e83c231c9&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollSpeed.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -100,7 +100,7 @@
       "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
       "developerName": "AppInstalleriOS",
       "subtitle": "",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846746534072380/6405219b85a21f2385e2200aac7e9388.png?ex=65985f7d&is=6585ea7d&hm=8a4a0229551fec544c87538e2682f07c95e1d556542e926522992f572bed23aa&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollSign.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -122,7 +122,7 @@
       "bundleIdentifier": "com.fiore.trolldecrypt",
       "developerName": "fiore",
       "subtitle": "Decrypt appstore apps for TrollStore",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846821503049848/e4f517be22d79e761781d6163bc3658b.png?ex=65985f8f&is=6585ea8f&hm=d517c0b908d3ad9703136b39a3ccdfe088af24e11642bcd0fd66737ac049c683&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollDecrypt.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -144,7 +144,7 @@
       "bundleIdentifier": "com.haxi0.TrollBoard-Reborn",
       "developerName": "haxi0",
       "subtitle": "A WebClips icon pack manager",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846630653833307/9d1c6c1d9f4df75ad04b19084d297f01.png?ex=65985f61&is=6585ea61&hm=1ca5433b51253c67ce99a900c4c825643a7bd5bcd8ee9efb86efa034edf460c6&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollBoard.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -166,7 +166,7 @@
       "bundleIdentifier": "com.apple.Terminal",
       "developerName": "apple",
       "subtitle": "",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846630918078524/729fb39586572406b2018b8465560298.png?ex=65985f61&is=6585ea61&hm=d289ae5fa32a547aad2631a11c56f2cf93078393157eaa0f5b6fe42f16853dc5&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Terminal.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -232,7 +232,7 @@
       "bundleIdentifier": "com.serena.santander",
       "developerName": "serena",
       "subtitle": "Unsandboxed File System manager for iOS devices",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846822417399960/e5847f6904218ab2514cf25a4c88e00b.png?ex=65985f8f&is=6585ea8f&hm=83b1700fa8270aa763b4044d8e6677c71e6362c995a6fb944a6adcdaa689000c&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Santander.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -276,7 +276,7 @@
       "bundleIdentifier": "com.niceios.Battery.Battery",
       "developerName": "niceios",
       "subtitle": "Battery details",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744227205170/ac24c2ce34ca94d7bf78dbcec3ea02a9.png?ex=65985f7c&is=6585ea7c&hm=2908c74667dbe8ece2b7b7fac37622992d4dcff836582ac5f1da070782d92735&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Battery.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -298,7 +298,7 @@
       "bundleIdentifier": "com.mika.LocationSimulation",
       "developerName": "mika",
       "subtitle": "Simulate GPS location system-wide",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846743988109312/d8007bd60f0c48fdd48841afb9e0e32c.png?ex=65985f7c&is=6585ea7c&hm=827190273baa128665c7846e3ab906fc0745455a8a8f1e36bb21285f94c168f1&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/LocSim.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -342,7 +342,7 @@
       "bundleIdentifier": "com.yiming.iMemScan",
       "developerName": "yiming",
       "subtitle": "Easily modify apps memory, useful for cheating offline game.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846630091784303/1e1410cbf4bc66f66ca32c4efafb8f9c.png?ex=65985f61&is=6585ea61&hm=9c61aa599e5c5b2c8d4996235c532921017e42ad44feff075f1d9e536f5c46ec&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/iMemScan.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -364,7 +364,7 @@
       "bundleIdentifier": "com.retr0dev.binarysign",
       "developerName": "retr0dev",
       "subtitle": "This is a tool, that helps you to sign any binary executable file.",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/BinarySigner.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -386,7 +386,7 @@
       "bundleIdentifier": "ae.alwafaagroup.gbox",
       "developerName": "alwafaagroup",
       "subtitle": "GBox is a no jailbreak required re-sign signer tool for iOS",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846822664876172/fa202f6e46ff617c5e8911049bc03aa8.png?ex=65985f8f&is=6585ea8f&hm=8605caaaa16c1a3301a06d1b2bb62e05ab02961baee1e1e757aaf8f49028dae7&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/GBox.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -408,7 +408,7 @@
       "bundleIdentifier": "net.sourceloc.evyrest",
       "developerName": "sourceloc",
       "subtitle": "Automatic wallpaper changer",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846745930080406/a223e53e125e0936301f9497a5538ab4.png?ex=65985f7d&is=6585ea7d&hm=91612db366d34975b8fec346eb1a1c12032ff966bd682aa6c8f1a3c489e6f886&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Everest.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -430,7 +430,7 @@
       "bundleIdentifier": "com.matteozappia.DynamicCowTS",
       "developerName": "matteozappia",
       "subtitle": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846630364430456/21569b715d4dee53730bb1fc03ef9e19.png?ex=65985f61&is=6585ea61&hm=fba4373b2bba26676d93d8b7116d0e861050786465416d68571b5699bd2f39b4&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/DynamicCow.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -452,7 +452,7 @@
       "bundleIdentifier": "com.netskao.downgradeapp",
       "developerName": "netskao",
       "subtitle": "Downgrading applications",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846745619714138/d46dacfaa353cfa9497b436060c98898.png?ex=65985f7d&is=6585ea7d&hm=75e20f742db2169cd99c746d4bb4ed0863340d0ad30cf66eb745bcafdfbe87fb&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/DowngradeApp.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -474,7 +474,7 @@
       "bundleIdentifier": "com.leemin.helium",
       "developerName": "leemin",
       "subtitle": "Status Bar Widgets for TrollStore iPhones on iOS 14+.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846822060904529/icon.png?ex=65985f8f&is=6585ea8f&hm=32fbc22661754760f7469add0a722ee4566c6bee16de767d46784d8a9478f1df&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Helium.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -518,7 +518,7 @@
       "bundleIdentifier": "ru.domo.cocoatop64",
       "developerName": "domo",
       "subtitle": "Process Viewer for iOS GUI",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846821268181022/fda5c2f1190fb2ccbfc7fd824acae98e.png?ex=65985f8f&is=6585ea8f&hm=4c1d4f29f98e939e77b4a2cd76142206b23d731bf9ea1d536e64ef08c27c674e&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/CocoaTop.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -562,7 +562,7 @@
       "bundleIdentifier": "com.cokepokes.AppStorePlus",
       "developerName": "cokepokes",
       "subtitle": "Downgrading applications",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846821012320356/e59993d4b9a96d011b85347518e2f446.png?ex=65985f8f&is=6585ea8f&hm=99d7aec2d2fd2b39963095f7bece7764a662519e1642bfe10598e9aeef921e42&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppStore++.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -584,7 +584,7 @@
       "bundleIdentifier": "com.tigisoftware.ADManager",
       "developerName": "tigisoftware",
       "subtitle": "Apps Manager, flexible way to manage your application’s data",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846745309323345/112358ff70bb9aa5453d28958d4e1e3e.png?ex=65985f7d&is=6585ea7d&hm=1f7e529558ea0d4081a17598b7271ddc73077db10db480e882894225505e171b&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppsManager.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -606,7 +606,7 @@
       "bundleIdentifier": "com.serena.AppIndex",
       "developerName": "serena",
       "subtitle": "Analyze & Backup applications on your device",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846821729546281/f105a2360722d80b01eee3d04a469ee2.png?ex=65985f8f&is=6585ea8f&hm=50785bf0e63aa8c6d8d5f324aeb4bd354b14e2be728ce7ba0537bc71a4da7be4&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppIndex.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -628,7 +628,7 @@
       "bundleIdentifier": "com.serena.Antoine",
       "developerName": "serena",
       "subtitle": "System Log UI for iOS",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846632465776741/8da407696e8a2ffec4f91d954776c6c2.png?ex=65985f62&is=6585ea62&hm=b424859d394d766538d3bc68db80e2b39680ee02e0f3881fedce8f56e1b4cc4b&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Antoine.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -650,7 +650,7 @@
       "bundleIdentifier": "net.sourceloc.AirTroller",
       "developerName": "sourceloc",
       "subtitle": "AirDrop spammer",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846744667586640/93949253296ca9bc2b74f5a3663588fc.png?ex=65985f7d&is=6585ea7d&hm=273d28a0677cd556c5dc26757c5c33b924d83d4e264c686039b2be7147b5bea9&",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AirTroller.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -671,6 +671,28 @@
       "name": "AirWall",
       "bundleIdentifier": "jp.dcsyhi.airwall",
       "developerName": "dcsyhi",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AirWall.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "",
+          "size": 400,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "bundleIdentifier": "",
+      "developerName": "",
       "subtitle": "",
       "iconURL": "",
       "tintColor": "#0096F0",

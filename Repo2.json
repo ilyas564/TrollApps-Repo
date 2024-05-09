@@ -1,0 +1,475 @@
+{
+  "name": "Ilyas564 Source",
+  "subtitle": "This is an ipa for TrollStore collected by me",
+  "description": "Welcome to my source! I hope it will be useful to you",
+  "iconURL": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1BtDY8UkyvgxTE1Q3mceB7iC-W52hF1tc",
+  "headerURL": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1BtDY8UkyvgxTE1Q3mceB7iC-W52hF1tc",
+  "website": "https://ilyas564.github.io/Info/",
+  "tintColor": "#F54F32",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Filza.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "4.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Filza.Deco_PhucDo.ipa",
+          "size": "17230"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Violyn",
+      "bundleIdentifier": "Lilliana.Violyn",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Violyn.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Violyn.ipa",
+          "size": "2090"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollTools",
+      "bundleIdentifier": "net.sourceloc.TrollTools",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollTolls.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "3.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollTools.ipa",
+          "size": "6970"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollSpeed.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.9.3",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollSpeed.ipa",
+          "size": "177"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollSign",
+      "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollSign.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollSign.ipa",
+          "size": "2420"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollDecrypt",
+      "bundleIdentifier": "com.fiore.trolldecrypt",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollDecrypt.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollDecrypt.ipa",
+          "size": "631"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollBoard",
+      "bundleIdentifier": "com.haxi0.TrollBoard-Reborn",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollBoard.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollBoard.Reborn.ipa",
+          "size": "562"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Terminal",
+      "bundleIdentifier": "com.apple.Terminal",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Terminal.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Terminal.ipa",
+          "size": "17900"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "SurgeTS",
+      "bundleIdentifier": "com.nssurge.inc.surge-ios",
+      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846631178121226/3a1cc201224779ccee781fc122814c2c.png?ex=65985f61&is=6585ea61&hm=8f9833bccebfcf8554a848cb3f79c7369e06f2b277b16216fe7de68ba4735d6f&",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "5.8.3",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Surge-iOS.ipa",
+          "size": "38900"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "SecondHand",
+      "bundleIdentifier": "com.leemin.SecondHand",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/SecondHand.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/SecondHand.ipa",
+          "size": "2670"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Santander",
+      "bundleIdentifier": "com.serena.santander",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Santander.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/SantanderTS.ipa",
+          "size": "5580"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "RingTonesManager",
+      "bundleIdentifier": "com.netskao.ringtonesmanager",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/RingTonesManager.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.1-4",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/RingTonesManager.ipa",
+          "size": "6630"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "NiceBattery",
+      "bundleIdentifier": "com.niceios.Battery.Battery",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Battery.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/NiceBattery.ipa",
+          "size": "526"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "LocSim RUS",
+      "bundleIdentifier": "com.mika.LocationSimulation",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/LocSim.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.3.7",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/LocSim.ipa",
+          "size": "2020"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Lavochka",
+      "bundleIdentifier": "com.lavochka.root",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Lavochka.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Lavochka.ipa",
+          "size": "1880"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "iMemScan",
+      "bundleIdentifier": "com.yiming.iMemScan",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/iMemScan.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.2.6",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/iMemScan.ipa",
+          "size": "2450"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "BinarySigner-iOS",
+      "bundleIdentifier": "com.retr0dev.binarysign",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/BinarySigner.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/hack-test.ipa",
+          "size": "2010"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "GBox TS",
+      "bundleIdentifier": "ae.alwafaagroup.gbox",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/GBox.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "4.5.2",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/GBoxTS.ipa",
+          "size": "7220"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Evyrest",
+      "bundleIdentifier": "net.sourceloc.evyrest",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Everest.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Evyrest.ipa",
+          "size": "10300"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "DynamicCowTS",
+      "bundleIdentifier": "com.matteozappia.DynamicCowTS",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/DynamicCow.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/DynamicCowTS.ipa",
+          "size": "734"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "DowngradeApp",
+      "bundleIdentifier": "com.netskao.downgradeapp",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/DowngradeApp.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.1-8",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/DowngradeApp.ipa",
+          "size": "542"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Helium.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Helium.ipa",
+          "size": "3650"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Deb-to-ipa",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/deb-to-ipa.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/deb-to-ipa-app.ipa",
+          "size": "2530"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "CocoaTop",
+      "bundleIdentifier": "ru.domo.cocoatop64",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/CocoaTop.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CocoaTop.ipa",
+          "size": "218"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "CAPerfHud",
+      "bundleIdentifier": "com.kdt.CAPerfHUD",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/CAPerfHUD.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CAPerfHUDSwift.ipa",
+          "size": "1040"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "AppStore++",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppStore++.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AppStorePlus.ipa",
+          "size": "6930"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Apps Manager",
+      "bundleIdentifier": "com.tigisoftware.ADManager",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppsManager.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.8-4",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AppsManeger.ipa",
+          "size": "2960"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "AppIndex",
+      "bundleIdentifier": "com.serena.AppIndex",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppIndex.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AppIndex.ipa",
+          "size": "881"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Antoine",
+      "bundleIdentifier": "com.serena.Antoine",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Antoine.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Antoine.ipa",
+          "size": "2590"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "AirTroller",
+      "bundleIdentifier": "net.sourceloc.AirTroller",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AirTroller.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AirTroller.ipa",
+          "size": "1240"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "AirWall",
+      "bundleIdentifier": "jp.dcsyhi.airwall",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AirWall.png",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "",
+          "size": "400"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "",
+      "bundleIdentifier": "",
+      "iconURL": "",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "",
+          "downloadURL": "",
+          "size": "1240"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "",
+      "bundleIdentifier": "",
+      "iconURL": "",
+      "tintColor": "#0096F0",
+      "versions": [
+        {
+          "version": "",
+          "downloadURL": "",
+          "size": "1240"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}

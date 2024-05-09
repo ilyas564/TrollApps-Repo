@@ -85,8 +85,8 @@
       ],
       "versions": [
         {
-          "version": "1.9.3",
-          "date": "2023-12-22",
+          "version": "1.11.11",
+          "date": "2024-05-09",
           "localizedDescription": "Shows upload & download speed below the status bar.",
           "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollSpeed.ipa",
           "size": 177,
@@ -179,28 +179,6 @@
           "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Terminal.ipa",
           "size": 17900,
           "minOSVersion": "14.0",
-          "maxOSVersion": "17.0"
-        }
-      ]
-    },
-    {
-      "name": "SurgeTS",
-      "bundleIdentifier": "com.nssurge.inc.surge-ios",
-      "developerName": "nssurge",
-      "subtitle": "Surge is a web development and proxy utility.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187846631178121226/3a1cc201224779ccee781fc122814c2c.png?ex=65985f61&is=6585ea61&hm=8f9833bccebfcf8554a848cb3f79c7369e06f2b277b16216fe7de68ba4735d6f&",
-      "tintColor": "#0096F0",
-      "screenshotURLs": [
-        ""
-      ],
-      "versions": [
-        {
-          "version": "5.8.3",
-          "date": "2023-12-22",
-          "localizedDescription": "Surge is a web development and proxy utility.",
-          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Surge-iOS.ipa",
-          "size": 38900,
-          "minOSVersion": "15.0",
           "maxOSVersion": "17.0"
         }
       ]
@@ -481,7 +459,7 @@
       ],
       "versions": [
         {
-          "version": "2.0.1",
+          "version": "3.2.6",
           "date": "2023-12-22",
           "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+.",
           "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Helium.ipa",
@@ -547,10 +525,10 @@
       ],
       "versions": [
         {
-          "version": "1.0.2",
+          "version": "1.0",
           "date": "2023-12-22",
           "localizedDescription": "Enable system-wide performance HUD for iOS",
-          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CAPerfHUDSwift.ipa",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CAPerfHUD.ipa",
           "size": 1040,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"
@@ -682,7 +660,7 @@
           "version": "1.0",
           "date": "2024-05-09",
           "localizedDescription": "",
-          "downloadURL": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AirWall.ipa",
           "size": 400,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"
@@ -690,21 +668,43 @@
       ]
     },
     {
-      "name": "",
-      "bundleIdentifier": "",
-      "developerName": "",
+      "name": "AppsDump2",
+      "bundleIdentifier": "cn.gblw.AppsDump",
+      "developerName": "gblw",
       "subtitle": "",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AppsDump.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
       ],
       "versions": [
         {
-          "version": "",
+          "version": "2.0.7-1",
           "date": "2024-05-09",
           "localizedDescription": "",
-          "downloadURL": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AppsDump2.ipa",
+          "size": 400,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "AudioRecorder",
+      "bundleIdentifier": "net.limneos.AudioRecorder",
+      "developerName": "limneos",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/AudioRecorder.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "6.0.3",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AudioRecorder.ipa",
           "size": 1240,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"
@@ -712,9 +712,53 @@
       ]
     },
     {
-      "name": "",
-      "bundleIdentifier": "",
-      "developerName": "",
+      "name": "BackupAZ4",
+      "bundleIdentifier": "com.synnyg.BackupAZ4",
+      "developerName": "synnyg",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/BackupAZ.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/BackupAZ4.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "CopyLog",
+      "bundleIdentifier": "me.tomt000.ts.copylog",
+      "developerName": "tomt000",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/CopyLog.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CopyLog.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "CLCracker",
+      "bundleIdentifier": "com.retr0dev.cracker",
+      "developerName": "retr0dev",
       "subtitle": "",
       "iconURL": "",
       "tintColor": "#0096F0",
@@ -723,10 +767,230 @@
       ],
       "versions": [
         {
-          "version": "",
+          "version": "1.0",
           "date": "2024-05-09",
           "localizedDescription": "",
-          "downloadURL": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/CLCracker.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "developerName": "cclerc",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Geranium.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/Geranium.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "IPCC Replacer",
+      "bundleIdentifier": "com.xiaobovlog.ipcc",
+      "developerName": "xiaobovlog",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/IPCC Replecer.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "3.0.3",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/IPCC.Replacer.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "KrashKop",
+      "bundleIdentifier": "com.foxfort.KrashKopApp",
+      "developerName": "foxfort",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/KrashKop.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/KrashKop.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "SweeperTS",
+      "bundleIdentifier": "org.haxi0.Sweeper",
+      "developerName": "haxi0",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Sweeper.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "0.3",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/SweeperTS.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "StoreControl",
+      "bundleIdentifier": "com.swifticul.StoreControl",
+      "developerName": "swifticul",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/StoreControl.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/StoreControl.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "SwiftTop",
+      "bundleIdentifier": "ca.bomberfish.SwiftTop",
+      "developerName": "bomberfish",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/SwiftTop.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "0.3",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/SwiftTop.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "TrollBox",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "developerName": "cclerc",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollBox.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "0.0.6",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollBox.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "developerName": "udevs",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/TrollCuts.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/TrollCuts.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "WebCar",
+      "bundleIdentifier": "live.cclerc.webcar",
+      "developerName": "cclerc",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/WebCar.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/WebCar.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Watching",
+      "bundleIdentifier": "com.34306.watching",
+      "developerName": "34306",
+      "subtitle": "",
+      "iconURL": "https://raw.githubusercontent.com/ilyas564/TrollApps-Repo/main/LogoCache/Watched.png",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/watching.ipa",
           "size": 1240,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"

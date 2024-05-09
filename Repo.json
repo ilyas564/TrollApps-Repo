@@ -12,7 +12,7 @@
       "bundleIdentifier": "com.tigisoftware.Filza",
       "developerName": "tigisoftware",
       "subtitle": "File manager for ios",
-      "iconURL": "https://cdn.discordapp.com/attachments/1002357113542152354/1187836027264573490/319844922a34e1632ecac74d27ce764c.png?ex=65985581&is=6585e081&hm=8f22a0eb3d482310f9c1a703c4937c1b334c64b27621d9c414a7d89af6d5eff6&",
+      "iconURL": "https://github.com/ilyas564/TrollApps-Repo/blob/main/LogoCache/Filza.png",
       "tintColor": "#0096F0",
       "screenshotURLs": [
         ""
@@ -661,6 +661,50 @@
           "date": "2023-12-22",
           "localizedDescription": "AirDrop spammer",
           "downloadURL": "https://github.com/ilyas564/TrollApps-Repo/releases/download/Ipa/AirTroller.ipa",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "AirWall",
+      "bundleIdentifier": "jp.dcsyhi.airwall",
+      "developerName": "dcsyhi",
+      "subtitle": "",
+      "iconURL": "",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "",
+          "size": 1240,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "bundleIdentifier": "",
+      "developerName": "",
+      "subtitle": "",
+      "iconURL": "",
+      "tintColor": "#0096F0",
+      "screenshotURLs": [
+        ""
+      ],
+      "versions": [
+        {
+          "version": "",
+          "date": "2024-05-09",
+          "localizedDescription": "",
+          "downloadURL": "",
           "size": 1240,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"

@@ -6,6 +6,12 @@
   "headerURL": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1BtDY8UkyvgxTE1Q3mceB7iC-W52hF1tc",
   "website": "https://ilyas564.github.io/Info/",
   "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.serena.AppIndex",
+    "com.tigisoftware.ADManager",
+    "com.netskao.downgradeapp",
+    "org.haxi0.Sweeper"
+  ],
   "apps": [
     {
       "name": "Filza",
